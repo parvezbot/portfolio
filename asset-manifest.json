@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/parvezbot/portfolio/static/css/main.e2a89aa5.chunk.css",
+    "main.js": "/parvezbot/portfolio/static/js/main.2bd665a6.chunk.js",
+    "main.js.map": "/parvezbot/portfolio/static/js/main.2bd665a6.chunk.js.map",
+    "runtime-main.js": "/parvezbot/portfolio/static/js/runtime-main.f0b92fd9.js",
+    "runtime-main.js.map": "/parvezbot/portfolio/static/js/runtime-main.f0b92fd9.js.map",
+    "static/css/2.0f711de9.chunk.css": "/parvezbot/portfolio/static/css/2.0f711de9.chunk.css",
+    "static/js/2.ab2bf88f.chunk.js": "/parvezbot/portfolio/static/js/2.ab2bf88f.chunk.js",
+    "static/js/2.ab2bf88f.chunk.js.map": "/parvezbot/portfolio/static/js/2.ab2bf88f.chunk.js.map",
+    "index.html": "/parvezbot/portfolio/index.html",
+    "static/css/2.0f711de9.chunk.css.map": "/parvezbot/portfolio/static/css/2.0f711de9.chunk.css.map",
+    "static/css/main.e2a89aa5.chunk.css.map": "/parvezbot/portfolio/static/css/main.e2a89aa5.chunk.css.map",
+    "static/js/2.ab2bf88f.chunk.js.LICENSE.txt": "/parvezbot/portfolio/static/js/2.ab2bf88f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b92fd9.js",
+    "static/css/2.0f711de9.chunk.css",
+    "static/js/2.ab2bf88f.chunk.js",
+    "static/css/main.e2a89aa5.chunk.css",
+    "static/js/main.2bd665a6.chunk.js"
+  ]
+}
